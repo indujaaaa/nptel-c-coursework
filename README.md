@@ -3,6 +3,8 @@
 # NPTEL - Problem Solving through Programming in C July/Sept 2020
 </div> 
 
+![](https://img.shields.io/badge/made%20by-indujaaaa-blueviolet)
+
 ## What's in Here?
 
 Coursework from the course **Problem Solving through Programming in C** by **NPTEL**.
