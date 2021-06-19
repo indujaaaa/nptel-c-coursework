@@ -5,6 +5,8 @@
 
 ![](https://img.shields.io/badge/made%20by-indujaaaa-blueviolet)
 
+## NOW ARCHIVED. Discontinued updating here, as I've done it on Notion.
+
 ## What's in Here?
 
 Coursework from the course **Problem Solving through Programming in C** by **NPTEL**.
